@@ -367,3 +367,8 @@ FodyWeavers.xsd
 /Infrastructure.Test/PurchaseRequestDefinition.xml
 /Infrastructure.Test/PayAttitude.xml
 /WebAPI/UPJPOSDEF.json
+/WebAPI/appsettings.Concashout.json
+/WebAPI/appsettings.Egolepay.json
+/WebAPI/appsettings.Production.json
+/WebAPI/appsettings.Ucard.json
+/WebAPI/appsettings.UniswitchNG.json
