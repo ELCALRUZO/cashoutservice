@@ -363,3 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 /WebAPI/appsettings.json
 /WebAPI/appsettings.Development.json
+/WebAPI/PurchaseRequestDefinition.xml
+/Infrastructure.Test/PurchaseRequestDefinition.xml
+/Infrastructure.Test/PayAttitude.xml
+/WebAPI/UPJPOSDEF.json
