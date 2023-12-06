@@ -32,7 +32,6 @@ builder.Services.AddMvc().AddNewtonsoftJson();
 builder.Services.AddSingleton<IEMVCardPayment, InterswitchKimono>()
     .AddSingleton<IEMVCardPayment, Fidesic>()
     .AddSingleton<IEMVCardPayment, LuxByGrupp>()
-    .AddSingleton<IEMVCardPayment, UP>()
     .AddSingleton<IEMVCardPayment, ArcaImpl>();
 builder.Services.AddResponseCompression(Options => {
     Options.EnableForHttps = true;
